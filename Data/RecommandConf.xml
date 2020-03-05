@@ -1,0 +1,67 @@
+<Recommand><!-- 根节点 -->  
+    <App id="daquan" text="迅雷大全">
+        <ver>1.1</ver>
+        <des>国内最新最全的视频搜索引擎，为您提供一站式互联网影音服务。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/daquan.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://daquan.xunlei.com" jumpkey="0"/>
+        <DownloadAddr/>
+    </App>
+    <App id="vip" text="迅雷会员">
+        <ver>1.1</ver>
+        <des>迅雷会员尊享在下载、视频、存储、娱乐等多方位互联网生活的20余种精彩特权！</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/vip.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://vip.xunlei.com" jumpkey="1"/>
+        <DownloadAddr/>
+    </App>
+    <App id="DownSite" text="下载导航">
+        <ver>1.0</ver>
+        <des>为您精选影视、软件、游戏、书籍等各类热门下载网站，丰富的网络资源让您快乐下不停！</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/xiazai.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://www.155.com/xiazai.html" jumpkey="0"/>
+        <DownloadAddr/>
+    </App>
+    <App id="lixian" text="离线下载">
+        <ver>1.0</ver>
+        <des>离线下载基于强大的迅雷云下载技术，为您提供更快、更稳定、更安全、更省心的下载体验。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/lixian.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://lixian.xunlei.com" jumpkey="0"/>
+        <DownloadAddr/>
+    </App>
+    <App id="hd" text="高清下载">
+        <ver>1.0</ver>
+        <des>全站720P高清品质，为您提供全国互联网首播电影、同步卫视热播电视剧、同步热播综艺节目免费正版下载。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/hd.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://daquan.xunlei.com/download_channel.html" jumpkey="1"/>
+        <DownloadAddr/>
+    </App>
+    <App id="vod" text="播放特权">
+        <ver>1.0</ver>
+        <des>迅雷播放特权基于云下载、云转码技术，为您提供稳定、流畅、即点即播的在线播放体验。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/vod.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://vod.xunlei.com" jumpkey="1"/>
+        <DownloadAddr/>
+    </App>
+    <App id="kuai" text="迅雷快传">
+        <ver>1.0</ver>
+        <des>迅雷快传是一款文件分享工具。拥有迅雷创新的极速上传、下载技术，让您分享文件轻松快捷。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/kuai.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://kuai.xunlei.com" jumpkey="1"/>
+        <DownloadAddr/>
+    </App>
+    <App id="155" text="网址导航">
+        <ver>1.0</ver>
+        <des>网址导航：提供全能的搜索入口、热门下载站推荐、名站导航、购物和生活便捷入口等上网常用服务。</des>
+        <image>http://twin0871.sandai.net:9000/upload/softwares/155.png</image>
+        <imagebkg>null</imagebkg><!-- 图标的底 -->     
+        <OpenUrl url="http://www.155.com" jumpkey="1"/>
+        <DownloadAddr/>
+    </App>
+</Recommand>
+

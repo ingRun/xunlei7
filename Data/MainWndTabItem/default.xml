@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainWndTabItem>
+<!-- 	<Item id="lixian" text="离线下载" vip="1">
+		<IconImage>http://images.client.xunlei.com/thunder7/7.9/201301/lixian.png</IconImage>
+		<TabIcon>http://images.client.xunlei.com/thunder7/7.9/201301/lixian.png</TabIcon>
+		<OperationType>4</OperationType>
+		<Pos>1</Pos>
+		<XarName>Offline</XarName>
+		<ControlName>Offline.TaskMgrWnd</ControlName>
+	</Item> -->
+	
+<!-- 	<Item id="kankan" text="迅雷看看" vip="0">
+		<IconImage>http://images.client.xunlei.com/thunder7/7.9/201301/kankan.png</IconImage>
+		<TabIcon>http://images.client.xunlei.com/thunder7/7.9/201301/kankan.png</TabIcon>
+		<OperationType>0</OperationType>
+		<OpenUrl url="http://www.kankan.com/?id=5022" jumpkey="1" openWay="1"/>
+		<Pos>2</Pos>
+	</Item> -->
+
+<!-- 	<Item id="xlgamestore" text="休闲游戏" vip="0">
+		<IconImage>http://images.client.xunlei.com/thunder7/7.9/201301/xlgamestore.png</IconImage>
+		<TabIcon>http://images.client.xunlei.com/thunder7/7.9/201301/xlgamestore.png</TabIcon>
+		<OperationType>0</OperationType>
+		<OpenUrl url="http://boxpage.niu.xunlei.com/thunder_7_9/index.html" jumpkey="1" openWay="1"/>
+		<Pos>5</Pos>
+	</Item> -->
+</MainWndTabItem>

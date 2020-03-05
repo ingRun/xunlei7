@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLTreasure>
+        <!--是否直接到下载宝页面的开关，off 关闭， on 开启-->
+        <switch>off</switch>
+        <!--下载宝标题-->
+        <title>我的下载宝</title>
+        <!--下载宝页面网址-->
+        <href>http://pc.xl9.xunlei.com/index.html</href>
+
+</XLTreasure>

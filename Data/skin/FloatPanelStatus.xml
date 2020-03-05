@@ -1,0 +1,10 @@
+<thunder >
+	<floatpanel_status>
+		<theme theme_type="yellow" total_width="57"  total_height="57" mask_width="57" mask_height="51" top_margin="3" is_speedstext="1" is_progressani="1" is_progresstext="0" progresstext_left="0" progresstext_top="0" speedtext_left="0" speedtext_top="0" speedtext_color="white" progresstext_color="white"/>
+		<theme theme_type="violet" total_width="57"  total_height="60" mask_width="57" mask_height="36" top_margin="6" is_speedstext="1" is_progressani="1" is_progresstext="0" progresstext_left="0" progresstext_top="0" speedtext_left="0" speedtext_top="0" speedtext_color="white" progresstext_color="white"/>
+		<theme theme_type="red" total_width="142"  total_height="104" mask_width="0" mask_height="0" top_margin="0" is_speedstext="1" is_progressani="0" is_progresstext="1" progresstext_left="20" progresstext_top="73" speedtext_left="77" speedtext_top="73" speedtext_color="blue" progresstext_color="yellow"/>
+		<theme theme_type="spring" total_width="85"  total_height="91" mask_width="85" mask_height="42" top_margin="21" is_speedstext="1" is_progressani="1" is_progresstext="0" progresstext_left="0" progresstext_top="0" speedtext_left="0" speedtext_top="0" speedtext_color="white" progresstext_color="white"/>
+		<theme theme_type="eve" total_width="85"  total_height="91" mask_width="85" mask_height="42" top_margin="21" is_speedstext="1" is_progressani="1" is_progresstext="0" progresstext_left="0" progresstext_top="0" speedtext_left="0" speedtext_top="0" speedtext_color="white" progresstext_color="white"/>
+		<theme theme_type="newyear" total_width="110"  total_height="72" mask_width="110" mask_height="50" top_margin="14" is_speedstext="1" is_progressani="1" is_progresstext="0" progresstext_left="0" progresstext_top="0" speedtext_left="0" speedtext_top="0" speedtext_color="white" progresstext_color="white"/>
+	</floatpanel_status>
+</thunder>
